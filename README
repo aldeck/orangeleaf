@@ -1,0 +1,22 @@
+
+
+Orange Leaf Book Contents
+=====================
+
+This is the source code for the Orange Leaf Book contents. 
+
+The Orange Leaf Book is under the wiki form it is meant for quick unorganized contributions and serves as a staging area for the Blue Leaf Book.
+ 
+It is licensed under the Creative Commons Attribution-Non Commercial-Share Alike 3.0 license. I hope you
+enjoy it, I hope it helps you understand and use the Haiku operating system.
+
+
+Errata
+=====================
+If you see anything that is technically wrong or otherwise in need of correction,
+please message me to inform me.
+
+
+Translation
+=====================
+If you wish to translate the book, please clone the repository and put your translation into the appropriate subdirector (ie: 'it' for Italian and so forth) and send me (aldeck) a pull request.
